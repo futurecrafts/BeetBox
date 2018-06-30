@@ -28,7 +28,7 @@ pygame.init()
 
 kick = pygame.mixer.Sound('samples/yulia1.wav')
 kick.set_volume(.65);
-snare = pygame.mixer.Sound('samples/yulia2.wav')
+snare = pygame.mixer.Sound('samples/yulia4.wav')
 snare.set_volume(.65);
 openhh = pygame.mixer.Sound('samples/yulia3.wav')
 openhh.set_volume(.65);
